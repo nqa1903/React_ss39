@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "price": 29990000,
+      "description": "Điện thoại Apple cao cấp mới nhất.",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-2-202309"
+    },
+    {
+      "name": "HanTarann",
+      "price": 1000000000000000,
+      "description": "<3",
+      "imageUrl": "https://res.cloudinary.com/diksglpop/image/upload/v1759241995/psszxbshitirmn2ofkzr.jpg",
+      "id": 2
+    }
+  ]
+}
